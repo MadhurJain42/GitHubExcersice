@@ -11,6 +11,8 @@
 		E041A0532B601A7B00F08241 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E041A0522B601A7B00F08241 /* ContentView.swift */; };
 		E041A0552B601A7D00F08241 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E041A0542B601A7D00F08241 /* Assets.xcassets */; };
 		E041A0582B601A7D00F08241 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E041A0572B601A7D00F08241 /* Preview Assets.xcassets */; };
+		E041A05F2B601CCB00F08241 /* SwiftUIView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E041A05E2B601CCB00F08241 /* SwiftUIView1.swift */; };
+		E041A0612B601CD500F08241 /* SwiftUIView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E041A0602B601CD500F08241 /* SwiftUIView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		E041A0522B601A7B00F08241 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E041A0542B601A7D00F08241 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E041A0572B601A7D00F08241 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E041A05E2B601CCB00F08241 /* SwiftUIView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView1.swift; sourceTree = "<group>"; };
+		E041A0602B601CD500F08241 /* SwiftUIView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				E041A0522B601A7B00F08241 /* ContentView.swift */,
 				E041A0542B601A7D00F08241 /* Assets.xcassets */,
 				E041A0562B601A7D00F08241 /* Preview Content */,
+				E041A05E2B601CCB00F08241 /* SwiftUIView1.swift */,
+				E041A0602B601CD500F08241 /* SwiftUIView2.swift */,
 			);
 			path = GitHubDemo;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E041A0532B601A7B00F08241 /* ContentView.swift in Sources */,
+				E041A0612B601CD500F08241 /* SwiftUIView2.swift in Sources */,
 				E041A0512B601A7B00F08241 /* GitHubDemoApp.swift in Sources */,
+				E041A05F2B601CCB00F08241 /* SwiftUIView1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
